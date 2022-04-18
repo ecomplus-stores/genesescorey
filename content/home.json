@@ -36,6 +36,10 @@
       ]
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"col-6 col-lg-6 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 510px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/salopete-4-.png\" data-alt=\"\" data-width=\"1080\" data-height=\"1080\" data-loaded=\"true\"><source srcset=\"/img/uploads/salopete-4-.png\" media=\"\"><img></picture></a></div></div>\n<div class=\"col-6 col-lg-6 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 510px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/salopete-2-.png\" data-alt=\"\" data-width=\"1080\" data-height=\"1080\" data-loaded=\"true\"><source srcset=\"/img/uploads/salopete-2-.png\" media=\"\"><img></picture></a></div></div>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
